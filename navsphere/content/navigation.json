@@ -667,6 +667,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "081afe44-b4f1-4360-b3db-5db5efe19a06",
+          "title": "网盘",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
