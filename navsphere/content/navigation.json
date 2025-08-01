@@ -957,6 +957,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "a180cd2a-443f-4c93-b1dd-d251707a6e38",
+          "title": "影视",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
