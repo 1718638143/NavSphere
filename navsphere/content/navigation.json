@@ -478,6 +478,14 @@
               "description": "App Screenshot Generator for App Store&Google Play,Create panoramic screenshots for iOS and Android apps. No account needed.",
               "icon": "/assets/img_1735258064656.png",
               "enabled": true
+            },
+            {
+              "id": "1754037241143",
+              "title": "一键排版",
+              "href": "http://www.yijianpaiban.net/",
+              "description": "一键排版网是免费的在线文字排版工具，粘贴内容即可秒变规范格式，支持中文段落、标点、缩进等一键美化，适合写作、公众号、论文快速整理。",
+              "icon": "http://www.yijianpaiban.net/favicon.ico",
+              "enabled": true
             }
           ],
           "enabled": true
