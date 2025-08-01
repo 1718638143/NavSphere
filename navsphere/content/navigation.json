@@ -601,6 +601,14 @@
             }
           ],
           "enabled": true
+        },
+        {
+          "id": "4c1f3432-c92e-4720-aeeb-8b5f7c3e021f",
+          "title": "文件共享",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
