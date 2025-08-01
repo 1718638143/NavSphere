@@ -700,6 +700,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "67381865-ef34-47f8-86d3-b46e9491cc1f",
+          "title": "邮箱",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
