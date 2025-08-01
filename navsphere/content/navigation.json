@@ -964,7 +964,16 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1754062006906",
+              "title": "爱看影视",
+              "href": "https://www.akysw.pro/",
+              "description": "",
+              "icon": "https://www.faviconextractor.com/favicon/www.akysw.pro",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "1513243c-16df-4e0a-a2fb-a21a0f03ecf3",
