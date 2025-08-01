@@ -102,6 +102,14 @@
               "description": "腾讯元宝是腾讯推出的免费 AI 助手，支持对话、文件/图片解析、创意写作等功能，网页版无需登录即可体验。",
               "icon": "https://static.yuanbao.tencent.com/logo-v2.png",
               "enabled": true
+            },
+            {
+              "id": "1754037010874",
+              "title": "Chatfreely",
+              "href": "https://www.chatfreely.xyz/",
+              "description": "集成 DeepSeek、Kimi、通义千问等前沿大模型，无订阅费、无调用次数限制，所有模型服务完全开放，提供 API/网页支持，快速集成。",
+              "icon": "https://www.chatfreely.xyz/favicon.ico",
+              "enabled": true
             }
           ]
         },
