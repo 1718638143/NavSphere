@@ -715,6 +715,14 @@
               "description": "",
               "icon": "https://res.wx.qq.com/t/webmail/webmail/res/static/images/base/style/favicon/qqmail_favicon_96h.8d124a7.png",
               "enabled": true
+            },
+            {
+              "id": "1754060769487",
+              "title": "Proton",
+              "href": "https://mail.proton.me/u/0/inbox",
+              "description": "",
+              "icon": "https://www.faviconextractor.com/favicon/mail.proton.me",
+              "enabled": true
             }
           ]
         }
