@@ -972,6 +972,14 @@
               "description": "",
               "icon": "https://www.faviconextractor.com/favicon/www.akysw.pro",
               "enabled": true
+            },
+            {
+              "id": "1754062110890",
+              "title": "观影GYING",
+              "href": "https://www.gying.in/",
+              "description": "",
+              "icon": "https://www.faviconextractor.com/favicon/www.gying.in",
+              "enabled": true
             }
           ]
         },
