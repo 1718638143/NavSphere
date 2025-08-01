@@ -723,6 +723,14 @@
               "description": "",
               "icon": "https://www.faviconextractor.com/favicon/mail.proton.me",
               "enabled": true
+            },
+            {
+              "id": "1754060929142",
+              "title": "MoeMail",
+              "href": "https://moemail.app/moe",
+              "description": "",
+              "icon": "https://moemail.app/icons/icon-192x192.png",
+              "enabled": true
             }
           ]
         }
