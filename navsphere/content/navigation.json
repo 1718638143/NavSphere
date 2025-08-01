@@ -28,6 +28,14 @@
           "description": "截图美化，套上不同设备的壳，浏览器、iPhone、iPad、MacBook，Apple Watch",
           "icon": "/assets/images/logos/shots.webp",
           "enabled": true
+        },
+        {
+          "id": "1754027901096",
+          "title": "闲云导航",
+          "href": "https://dh.xyf111.top/",
+          "description": "",
+          "icon": "https://dh.xyf111.top/assets/img/logo.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
