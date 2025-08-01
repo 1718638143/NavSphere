@@ -947,6 +947,14 @@
               "description": "",
               "icon": "https://files.codelife.cc/icons/bilibili.svg",
               "enabled": true
+            },
+            {
+              "id": "1754061205390",
+              "title": "抖音",
+              "href": "https://www.douyin.com",
+              "description": "",
+              "icon": "https://files.codelife.cc/website/douyin.svg",
+              "enabled": true
             }
           ]
         }
