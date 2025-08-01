@@ -206,6 +206,14 @@
               "description": "Netlify is the essential platform for the delivery of exceptional and dynamic web experiences, without limitations.",
               "icon": "/assets/img_1735612745862.png",
               "enabled": true
+            },
+            {
+              "id": "1754030327392",
+              "title": "帽子云",
+              "href": "https://dash.maoziyun.com/",
+              "description": "帽子云是一款集成化的静态网站部署平台，作为 Github Pages / Cloudflare Pages 的替代方案。它不仅提供更快的访问速度，还支持快速构建、扩展和部署前端服务。",
+              "icon": "https://www.maoziyun.com/favicon/favicon.png",
+              "enabled": true
             }
           ]
         },
