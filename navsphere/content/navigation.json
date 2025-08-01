@@ -674,7 +674,16 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1754053494290",
+              "title": "阿里云盘",
+              "href": "https://www.alipan.com/drive/home",
+              "description": "",
+              "icon": "https://img.alicdn.com/imgextra/i2/O1CN01DOYcs71v3B6bOemVM_!!6000000006116-2-tps-512-512.png",
+              "enabled": true
+            }
+          ]
         }
       ],
       "description": "",
