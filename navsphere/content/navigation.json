@@ -921,7 +921,16 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1754062954581",
+              "title": "哲风壁纸",
+              "href": "https://haowallpaper.com/",
+              "description": "",
+              "icon": "https://haowallpaper.com/favicon.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
