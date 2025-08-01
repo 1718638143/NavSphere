@@ -95,7 +95,16 @@
           "icon": "Book",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754030012919_zqzprtfii",
+              "title": "Minimax",
+              "href": "https://agent.minimax.io/",
+              "description": "MiniMax Agent 是 MiniMax 推出的 AI 智能体平台，主打“零代码、低门槛”创建各类 AI 应用。用户通过自然语言即可一键生成对话机器人、数据分析、图像/音频/视频生成、网页爬虫、小游戏等 100+ 场景模板，并支持一键部署与分享。",
+              "icon": "https://agent.minimax.io/assets/logo/favicon-dark.png?v=4",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "21bf96f3-acb0-4e28-aaa8-2759ac55d278",
