@@ -608,7 +608,16 @@
           "icon": "FolderOpen",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1754037543488",
+              "title": "文叔叔",
+              "href": "https://www.wenshushu.cn/",
+              "description": "文叔叔是一款可以将任意文件，简单、安全、极速传给你朋友的工具。",
+              "icon": "https://files.codelife.cc/icons/60b9eb8bae5a9ba4024b3bb0.png?x-oss-process=image/resize,limit_0,m_fill,w_100,h_100/quality,q_92/format,webp",
+              "enabled": true
+            }
+          ]
         }
       ],
       "description": "",
