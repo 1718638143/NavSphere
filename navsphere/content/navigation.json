@@ -929,6 +929,14 @@
               "description": "",
               "icon": "https://haowallpaper.com/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "1754062999085",
+              "title": "拾光壁纸",
+              "href": "https://qingbz.timeline.ink/",
+              "description": "",
+              "icon": "https://qingbz.timeline.ink/static/img/apple-touch-icon.png",
+              "enabled": true
             }
           ]
         }
