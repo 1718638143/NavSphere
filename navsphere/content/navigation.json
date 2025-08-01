@@ -641,6 +641,14 @@
               "description": "致力于打造和收集各种简单易用、安全便捷的在线工具，无需注册和下载即可免费使用。",
               "icon": "https://www.faviconextractor.com/favicon/fly63.com",
               "enabled": true
+            },
+            {
+              "id": "1754038195803",
+              "title": "程序员宝盒",
+              "href": "https://www.baoboxs.com/",
+              "description": "程序员宝盒是一个为开发者提供各种实用工具和资源的导航平台。",
+              "icon": "https://www.baoboxs.com/favicon.ico",
+              "enabled": true
             }
           ]
         }
