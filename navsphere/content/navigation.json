@@ -939,6 +939,14 @@
               "description": "",
               "icon": "https://files.codelife.cc/icons/qqvideo.svg",
               "enabled": true
+            },
+            {
+              "id": "1754061178131",
+              "title": "哔哩哔哩",
+              "href": "https://www.bilibili.com/",
+              "description": "",
+              "icon": "https://files.codelife.cc/icons/bilibili.svg",
+              "enabled": true
             }
           ]
         }
