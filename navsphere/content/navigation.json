@@ -937,6 +937,14 @@
               "description": "",
               "icon": "https://qingbz.timeline.ink/static/img/apple-touch-icon.png",
               "enabled": true
+            },
+            {
+              "id": "1754063113467",
+              "title": "宝藏图库",
+              "href": "https://www.baozangtuku.com/",
+              "description": "",
+              "icon": "https://www.baozangtuku.com/skin/default/images/favicon.ico",
+              "enabled": true
             }
           ]
         }
