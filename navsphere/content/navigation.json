@@ -649,6 +649,14 @@
               "description": "程序员宝盒是一个为开发者提供各种实用工具和资源的导航平台。",
               "icon": "https://www.baoboxs.com/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "1754038248417",
+              "title": "CXY521",
+              "href": "http://www.cxy521.com/",
+              "description": "CXY521 专注程序员一站式导航，提供最精华有趣的内容。",
+              "icon": "http://www.cxy521.com/static/img/favicon.ico",
+              "enabled": true
             }
           ]
         }
