@@ -94,6 +94,14 @@
               "description": "通义是阿里推出的免费 AI 助手，集成 Qwen 3 大模型，提供对话、PPT、阅读、笔记、扩图等效率工具，网页和 App 即用。",
               "icon": "https://files.codelife.cc/icons/tongyi.aliyun.png",
               "enabled": true
+            },
+            {
+              "id": "1754036153026",
+              "title": "元宝",
+              "href": "https://yuanbao.tencent.com/",
+              "description": "腾讯元宝是腾讯推出的免费 AI 助手，支持对话、文件/图片解析、创意写作等功能，网页版无需登录即可体验。",
+              "icon": "https://static.yuanbao.tencent.com/logo-v2.png",
+              "enabled": true
             }
           ]
         },
