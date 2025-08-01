@@ -1,40 +1,6 @@
 {
   "navigationItems": [
     {
-      "id": "1",
-      "title": "常用推荐",
-      "icon": "Star",
-      "items": [
-        {
-          "id": "1_2",
-          "title": "Vercel",
-          "href": "https://vercel.com/",
-          "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
-          "icon": "/assets/images/logos/vercel.png",
-          "enabled": true
-        },
-        {
-          "id": "1_3",
-          "title": "Cloudflare",
-          "href": "https://dash.cloudflare.com/",
-          "description": "Cloudflare以向客户提供基于反向代理的内容分发网络及分布式域名解析服务为主要业务。",
-          "icon": "/assets/images/logos/cloudflar.ico",
-          "enabled": true
-        },
-        {
-          "id": "1754027901096",
-          "title": "闲云导航",
-          "href": "https://dh.xyf111.top/",
-          "description": "本地",
-          "icon": "https://dh.xyf111.top/assets/img/logo.png",
-          "enabled": true
-        }
-      ],
-      "subCategories": [],
-      "description": "",
-      "enabled": true
-    },
-    {
       "id": "9",
       "title": "AI工具包",
       "icon": "Brain",
@@ -99,6 +65,40 @@
           "items": []
         }
       ],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "1",
+      "title": "常用推荐",
+      "icon": "Star",
+      "items": [
+        {
+          "id": "1_2",
+          "title": "Vercel",
+          "href": "https://vercel.com/",
+          "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
+          "icon": "/assets/images/logos/vercel.png",
+          "enabled": true
+        },
+        {
+          "id": "1_3",
+          "title": "Cloudflare",
+          "href": "https://dash.cloudflare.com/",
+          "description": "Cloudflare以向客户提供基于反向代理的内容分发网络及分布式域名解析服务为主要业务。",
+          "icon": "/assets/images/logos/cloudflar.ico",
+          "enabled": true
+        },
+        {
+          "id": "1754027901096",
+          "title": "闲云导航",
+          "href": "https://dh.xyf111.top/",
+          "description": "本地",
+          "icon": "https://dh.xyf111.top/assets/img/logo.png",
+          "enabled": true
+        }
+      ],
+      "subCategories": [],
       "description": "",
       "enabled": true
     },
