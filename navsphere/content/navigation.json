@@ -916,6 +916,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1754061090468",
+      "title": "影音娱乐",
+      "icon": "FolderOpen",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
