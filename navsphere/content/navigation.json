@@ -78,6 +78,14 @@
               "description": "",
               "icon": "https://statics.moonshot.cn/kimi-chat/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754029486130_dingqucmn",
+              "title": "豆包",
+              "href": "https://www.doubao.com",
+              "description": "",
+              "icon": "https://files.codelife.cc/icons/doubao.com.webp",
+              "enabled": true
             }
           ]
         },
