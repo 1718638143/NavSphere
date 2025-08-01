@@ -657,6 +657,14 @@
               "description": "CXY521 专注程序员一站式导航，提供最精华有趣的内容。",
               "icon": "http://www.cxy521.com/static/img/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "1754038493776",
+              "title": "程序员盒子",
+              "href": "https://www.coderutil.com/",
+              "description": "程序员盒子（coderutil）是面向 200 万开发者的中文编程导航社区，聚合工具、教程、源码、求职、面试等干货，每日更新。",
+              "icon": "https://www.coderutil.com/icon_20240202.png",
+              "enabled": true
             }
           ]
         }
