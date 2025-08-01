@@ -1013,6 +1013,14 @@
               "description": "",
               "icon": "https://www.faviconextractor.com/favicon/music.air.moe",
               "enabled": true
+            },
+            {
+              "id": "1754062597882",
+              "title": "笒鬼鬼音乐盒",
+              "href": "https://player.ovoeo.cn/",
+              "description": "",
+              "icon": "/assets/img_1754062802369.png",
+              "enabled": true
             }
           ]
         }
