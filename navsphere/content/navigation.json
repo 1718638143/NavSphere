@@ -707,7 +707,16 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1754060728856",
+              "title": "QQ邮箱",
+              "href": "https://wx.mail.qq.com",
+              "description": "",
+              "icon": "https://res.wx.qq.com/t/webmail/webmail/res/static/images/base/style/favicon/qqmail_favicon_96h.8d124a7.png",
+              "enabled": true
+            }
+          ]
         }
       ],
       "description": "",
