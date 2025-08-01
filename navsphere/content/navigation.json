@@ -914,6 +914,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "a5f4a1be-5442-45c6-83d2-8c1620439c01",
+          "title": "壁纸",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
