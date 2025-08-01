@@ -633,7 +633,16 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1754038103818",
+              "title": "fly63工具箱",
+              "href": "https://fly63.com/tool/home.html",
+              "description": "致力于打造和收集各种简单易用、安全便捷的在线工具，无需注册和下载即可免费使用。",
+              "icon": "https://www.faviconextractor.com/favicon/fly63.com",
+              "enabled": true
+            }
+          ]
         }
       ],
       "description": "",
