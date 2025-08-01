@@ -86,6 +86,14 @@
               "description": "豆包是字节跳动推出的免费 AI 助手平台，提供对话、写作、图像生成、代码、翻译、PPT、音乐等一站式生成服务，支持网页端与 App，无需登录即可体验。",
               "icon": "https://files.codelife.cc/icons/doubao.com.webp",
               "enabled": true
+            },
+            {
+              "id": "site_1754030173149_uwaujbt7l",
+              "title": "通义千问",
+              "href": "https://www.tongyi.com/",
+              "description": "通义是阿里推出的免费 AI 助手，集成 Qwen 3 大模型，提供对话、PPT、阅读、笔记、扩图等效率工具，网页和 App 即用。",
+              "icon": "https://files.codelife.cc/icons/tongyi.aliyun.png",
+              "enabled": true
             }
           ]
         },
