@@ -1005,6 +1005,14 @@
               "description": "",
               "icon": "https://www.qqmp3.vip/logo.png",
               "enabled": true
+            },
+            {
+              "id": "1754062531469",
+              "title": "Music Player",
+              "href": "https://music.air.moe/",
+              "description": "",
+              "icon": "https://www.faviconextractor.com/favicon/music.air.moe",
+              "enabled": true
             }
           ]
         }
