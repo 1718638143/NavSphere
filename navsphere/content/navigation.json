@@ -931,7 +931,16 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1754061144955",
+              "title": "腾讯视频",
+              "href": "http://v.qq.com/",
+              "description": "",
+              "icon": "https://files.codelife.cc/icons/qqvideo.svg",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
