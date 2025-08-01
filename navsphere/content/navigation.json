@@ -1021,6 +1021,14 @@
               "description": "",
               "icon": "https://so.xshyun.top/public/gw.png?v=2.1.2",
               "enabled": true
+            },
+            {
+              "id": "1754064073748",
+              "title": "老地方影视",
+              "href": "https://www.laodifang.cc/",
+              "description": "",
+              "icon": "https://www.laodifang.cc/upload/site/20250729-1/9c0973816e774ccc408a5c2e555b8b89.png",
+              "enabled": true
             }
           ]
         },
