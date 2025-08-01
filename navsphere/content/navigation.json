@@ -682,6 +682,14 @@
               "description": "",
               "icon": "https://img.alicdn.com/imgextra/i2/O1CN01DOYcs71v3B6bOemVM_!!6000000006116-2-tps-512-512.png",
               "enabled": true
+            },
+            {
+              "id": "1754053517021",
+              "title": "百度云盘",
+              "href": "https://pan.baidu.com/",
+              "description": "",
+              "icon": "https://files.codelife.cc/icons/pan-baidu.svg",
+              "enabled": true
             }
           ]
         }
