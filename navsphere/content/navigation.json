@@ -353,6 +353,14 @@
               "description": "",
               "icon": "https://ipcheck.ing/logos/logo.svg",
               "enabled": true
+            },
+            {
+              "id": "1754101829960",
+              "title": "Speedtest",
+              "href": "https://www.speedtest.net/",
+              "description": "",
+              "icon": "https://files.codelife.cc/icons/www.speedtest.net.svg",
+              "enabled": true
             }
           ]
         }
