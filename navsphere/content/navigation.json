@@ -601,6 +601,14 @@
               "description": "一键排版网是免费的在线文字排版工具，粘贴内容即可秒变规范格式，支持中文段落、标点、缩进等一键美化，适合写作、公众号、论文快速整理。",
               "icon": "http://www.yijianpaiban.net/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "1754102723892",
+              "title": "易转换",
+              "href": "https://www.easeconvert.com/",
+              "description": "",
+              "icon": "https://www.easeconvert.com/favicon.ico",
+              "enabled": true
             }
           ],
           "enabled": true
