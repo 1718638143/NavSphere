@@ -396,6 +396,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "4aee35c9-a6ec-4944-a9c9-484c8ffec327",
+          "title": "仓库",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
