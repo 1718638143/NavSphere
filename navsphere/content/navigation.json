@@ -345,6 +345,14 @@
               "description": "",
               "icon": "https://fofa.info/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "1754101766830",
+              "title": "IPCheck",
+              "href": "https://ipcheck.ing/#/",
+              "description": "",
+              "icon": "https://ipcheck.ing/logos/logo.svg",
+              "enabled": true
             }
           ]
         }
