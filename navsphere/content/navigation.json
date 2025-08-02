@@ -363,6 +363,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "bfd02644-325e-49a1-a442-bec21fe83256",
+          "title": "云服务",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
