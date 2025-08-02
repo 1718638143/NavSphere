@@ -378,6 +378,14 @@
               "description": "",
               "icon": "https://img.alicdn.com/tfs/TB1_ZXuNcfpK1RjSZFOXXa6nFXa-32-32.ico",
               "enabled": true
+            },
+            {
+              "id": "1754101948957",
+              "title": "百度云",
+              "href": "https://console.bce.baidu.com/bcc/#/bcc/instance/list",
+              "description": "",
+              "icon": "https://agi-dev-platform-web.cdn.bcebos.com/ai_apaas/favicon.ico",
+              "enabled": true
             }
           ]
         }
