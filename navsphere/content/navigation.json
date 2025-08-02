@@ -353,6 +353,14 @@
               "description": "",
               "icon": "https://files.codelife.cc/icons/gitee.svg",
               "enabled": true
+            },
+            {
+              "id": "1754102503899",
+              "title": "CSDN",
+              "href": "http://www.csdn.net/",
+              "description": "",
+              "icon": "https://files.codelife.cc/icons/csdn.svg",
+              "enabled": true
             }
           ]
         },
