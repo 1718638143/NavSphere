@@ -370,7 +370,16 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1754101922147",
+              "title": "阿里云",
+              "href": "https://ecs.console.aliyun.com/securityGroupDetail/region/cn-wulanchabu/groupId/sg-0jl89f3t4lp42ykad13h/detail/intranetIngress",
+              "description": "",
+              "icon": "https://img.alicdn.com/tfs/TB1_ZXuNcfpK1RjSZFOXXa6nFXa-32-32.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
