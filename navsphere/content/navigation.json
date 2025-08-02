@@ -361,6 +361,14 @@
               "description": "",
               "icon": "https://files.codelife.cc/icons/www.speedtest.net.svg",
               "enabled": true
+            },
+            {
+              "id": "1754102343007",
+              "title": "Apifox",
+              "href": "https://app.apifox.com/",
+              "description": "",
+              "icon": "https://cdn.apifox.com/logo/apifox-logo-256.png",
+              "enabled": true
             }
           ]
         },
