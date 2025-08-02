@@ -345,6 +345,14 @@
               "description": "",
               "icon": "https://files.codelife.cc/icons/github.svg",
               "enabled": true
+            },
+            {
+              "id": "1754102469646",
+              "title": "Gitee",
+              "href": "https://gitee.com/",
+              "description": "",
+              "icon": "https://files.codelife.cc/icons/gitee.svg",
+              "enabled": true
             }
           ]
         },
