@@ -337,7 +337,16 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1754102431134",
+              "title": "Github",
+              "href": "https://github.com/",
+              "description": "",
+              "icon": "https://files.codelife.cc/icons/github.svg",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "2c5d127a-2ec9-4fe3-a2ea-979a3ec67dfe",
