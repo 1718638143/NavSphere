@@ -361,6 +361,14 @@
               "description": "",
               "icon": "https://files.codelife.cc/icons/csdn.svg",
               "enabled": true
+            },
+            {
+              "id": "1754102572580",
+              "title": "开源中国",
+              "href": "https://www.oschina.net/",
+              "description": "",
+              "icon": "https://files.codelife.cc/icons/oschina.svg",
+              "enabled": true
             }
           ]
         },
