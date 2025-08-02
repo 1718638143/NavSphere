@@ -337,7 +337,16 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1754101610945",
+              "title": "网络空间测绘",
+              "href": "https://fofa.info/",
+              "description": "",
+              "icon": "https://fofa.info/favicon.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
