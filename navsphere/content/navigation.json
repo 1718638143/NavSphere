@@ -330,6 +330,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "2c5d127a-2ec9-4fe3-a2ea-979a3ec67dfe",
+          "title": "网络",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
